@@ -35,5 +35,5 @@ jobs:
           file: ./src/Dockerfile
           push: true
           tags: |
-            rodriguerl/rotten-potatoes:latest
-            rodriguerl/rotten-potatoes:${{ github.run_number }}
+            rodriguerl/roten-potatoes:latest
+            rodriguerl/roten-potatoes:${{ github.run_number }}
